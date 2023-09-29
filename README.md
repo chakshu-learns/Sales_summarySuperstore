@@ -12,4 +12,4 @@ Below are the highlits of report
 - For better understanding profits and losses color range was maintained (more profit more green more loss more red)
 - Double borders were put to demarcate different regions
   4. **Export**
-  By adjusting margins the report for exported as pdf in least number of pages possible (i.e. 5 in this case)
+  By adjusting margins the report for exported as pdf in least number of pages possible (i.e. 168 in this case)
